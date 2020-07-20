@@ -11,7 +11,7 @@
       "name": "1000-fish",
       "label": "1000 Fish",
       "path": "./packs/1000-fish.db",
-      "entity": "RollableItem"
+      "entity": "RollableTable"
     }
   ],
   "url": "https://github.com/cswendrowski/FoundryVTT-1000-Fish",
