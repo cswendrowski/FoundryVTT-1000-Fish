@@ -1,22 +1,20 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
-  "version": "0.0.1",
+  "name": "1000-fish",
+  "title": "1000 Fish",
+  "description": "A rollable table of 1000 fish, created by burkenhare#4761 (Discord) ",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.6.2",
-  "author": "Cody Swendrowski <cody@swendrowski.us>",
-  "esmodules": [
-    "./module.js"
+  "compatibleCoreVersion": "0.7.0",
+  "author": "Fish List: burkenhare#4761, Module: Cody Swendrowski <cody@swendrowski.us>",
+  "packs": [
+    {
+      "name": "1000-fish",
+      "label": "1000 Fish",
+      "path": "./packs/1000-fish.db",
+      "entity": "RollableItem"
+    }
   ],
-  "scripts": [
-  ],
-  "styles": [
-    "/styles/module.css"
-  ],
-  "languages": [
-  ],
-  "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "url": "https://github.com/cswendrowski/FoundryVTT-1000-Fish",
+  "manifest": "https://github.com/cswendrowski/FoundryVTT-1000-Fish/releases/download/latest/module.json",
+  "download": "https://github.com/cswendrowski/FoundryVTT-1000-Fish/releases/download/1.0.0/module.zip"
 }
