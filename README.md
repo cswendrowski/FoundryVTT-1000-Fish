@@ -2,9 +2,9 @@
 [![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%243-orange)](https://www.buymeacoffee.com/T2tZvWJ)
 
 
-# 1000 Fish
+# 1001 Fish
 
-A rollable table of 1000 fish, created by burkenhare #4761 (Discord) 
+A rollable table of 1001 fish, created by burkenhare #4761 (Discord) 
 
 
 "Typical use:
