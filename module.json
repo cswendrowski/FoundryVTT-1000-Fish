@@ -4,7 +4,7 @@
   "description": "A rollable table of 1001 fish, created by burkenhare#4761 (Discord) ",
   "version": "1.1.1",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": 11",
+  "compatibleCoreVersion": 11,
   "compatibility": {
     "minimum": "0.6.2",
     "verified": 11
